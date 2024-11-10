@@ -30,7 +30,7 @@ export const Blue: Story = {
 
 export const Gray: Story = {
   args: {
-    label: "Gray Button",
+    label: "Gray Button 222",
     variant: "gray",
   },
 };

@@ -54,6 +54,9 @@ importers:
       autoprefixer:
         specifier: ^10.4.20
         version: 10.4.20(postcss@8.4.47)
+      chromatic:
+        specifier: ^11.18.0
+        version: 11.18.0
       eslint:
         specifier: ^9.13.0
         version: 9.14.0(jiti@1.21.6)
