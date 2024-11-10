@@ -30,7 +30,7 @@ export const Blue: Story = {
 
 export const Gray: Story = {
   args: {
-    label: "Gray Button 222",
+    label: "Gray Button 지속적 배포",
     variant: "gray",
   },
 };
